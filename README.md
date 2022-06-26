@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Bienvenue sur mon profile GitHub ! 🧋
+
+Étudiant en 3 ème année de BACHELOR CONCEPTEUR DÉVELOPPEUR DE SOLUTIONS DIGITALES, je suis à la recherche d’une alternance en tant que développeur web pour une durée de 2 ans afin de réaliser un Mastère Developer Manager Full Stack à EFREI Paris.
+
+### Me contacter
+- ✉️ quentin.vitoux@gmail.com
 <!--
 **Quentinqv/Quentinqv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
